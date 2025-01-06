@@ -1,1 +1,2 @@
 ﻿- See this issue [#133](https://github.com/reactiveui/ReactiveUI.SourceGenerators/issues/133)
+- Solved by this pull request [#156](https://github.com/reactiveui/ReactiveUI.SourceGenerators/pull/156)
